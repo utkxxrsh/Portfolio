@@ -7,7 +7,9 @@ Portfolio website made using HTML, CSS and JavaScript.
   <summary>Show screenshots</summary>
   <br>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/63140632/141283894-9250a10e-a6e5-42b3-9931-6cf246ac6492.png" alt="dark" width="400px">
+    <img src="![po](https://user-images.githubusercontent.com/64093818/171910462-02a6cb37-a9f3-4196-927d-133fd03f8445.png)
+" alt="dark" width="400px">
     <img src="https://user-images.githubusercontent.com/63140632/141283905-86a0fd9e-1b80-4c17-9c2f-d752d2e9949d.png" alt="light" width="400px">
   </p>
 </details>
+
