@@ -1,4 +1,4 @@
-# Nimish Jain's Portfolio
+# Utkarsh Deep's Portfolio
 
 Portfolio website made using HTML, CSS and JavaScript.
 
